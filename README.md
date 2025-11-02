@@ -27,9 +27,8 @@
 - **TypeScript** — Safer types across components and the API route.
 <br/>
 
-## 🙏 Special Thanks
-- Powered by **Korea Juso Address APIs** (국가주소정보) — `addrLinkApi.do` (KO) & `addrEngApi.do` (EN). <br/>
-- Inspired by the structure of the user's README template (sectioning & icon style). fileciteturn0file0
+## 🙏 Powered by
+- **Korea Juso Address APIs** (국가주소정보) — `addrLinkApi.do` (KO) & `addrEngApi.do` (EN). <br/>
 <br/>
 
 ## ⚙️ [Instructions]
@@ -122,14 +121,20 @@ GET /api/address?q=<keyword>&lang=ko|en&page=<1..n>&size=<1..50>
 <br/>
 
 ## 💻 [Demo and Preview]
-- Live Demo: (optional) Deploy to Vercel and paste your URL here. <br/>
+- Live Demo: [(optional) Deploy to Vercel and paste your URL here.](https://k-address-translation.vercel.app/) <br/>
 - Desktop:
   - Search field with inline Autocomplete, “Search” & “Popup” buttons
   - Address 1 (KO) and English Address auto-filled on selection
 - Mobile:
   - Popup becomes **full screen**, listbox scroll is optimized for touch
+ <img width="877" height="525" alt="image" src="https://github.com/user-attachments/assets/47491877-c01c-489d-854b-05aa61b0f5b7" />
+ <img width="899" height="827" alt="image" src="https://github.com/user-attachments/assets/a9602902-60a9-4830-9b78-f8e7f78b8dc1" />
+ <img width="874" height="720" alt="image" src="https://github.com/user-attachments/assets/29970406-de18-45b3-8459-5a949a88da95" />
+ <img width="870" height="514" alt="image" src="https://github.com/user-attachments/assets/d74ee8ef-c3fd-4170-a276-6b5026dd7810" />
+
+
 
 > Tip: If you embed this widget elsewhere, you can reuse `/api/address` and the `AddressSearch` component.
 
 ## 🔑 [License]
-MIT (same spirit as the template).
+Apache-2.0 license (same spirit as the template).
