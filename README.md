@@ -132,4 +132,4 @@ GET /api/address?q=<keyword>&lang=ko|en&page=<1..n>&size=<1..50>
 > Tip: If you embed this widget elsewhere, you can reuse `/api/address` and the `AddressSearch` component.
 
 ## 🔑 [License]
-MIT (same spirit as the template).
+Apache-2.0 license (same spirit as the template).
