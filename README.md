@@ -27,9 +27,8 @@
 - **TypeScript** — Safer types across components and the API route.
 <br/>
 
-## 🙏 Special Thanks
-- Powered by **Korea Juso Address APIs** (국가주소정보) — `addrLinkApi.do` (KO) & `addrEngApi.do` (EN). <br/>
-- Inspired by the structure of the user's README template (sectioning & icon style). fileciteturn0file0
+## 🙏 Powered by
+- **Korea Juso Address APIs** (국가주소정보) — `addrLinkApi.do` (KO) & `addrEngApi.do` (EN). <br/>
 <br/>
 
 ## ⚙️ [Instructions]
